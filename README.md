@@ -1,5 +1,5 @@
 # MergeSplit
-##Codes and Data for *"Fission-fusion dynamics and group-size dependent composition in heterogeneous populations"*, 2018
+##Codes and Data for *Gokul Nair, Athmanathan Senthilnathan, Srikanth Iyer, and Vishwesha Guttal, 2019, Fission-fusion dynamics and group-size dependent composition in heterogeneous populations, Physical Review E, 99, 032412, doi: https://doi.org/10.1103/PhysRevE.99.032412*
 
 ##Codes:
 1) C++11 source-code (merge_split_13.cpp), a Monte-Carlo algorithm to simulate the Coagulation-Fragmentation model for heterogeneous populations. Written by Gokul G. Nair
